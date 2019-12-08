@@ -3,6 +3,7 @@ Finished online annotation
 Crossverifed the annotation, its saved in the tool. If in case not found, have already added csv file of annotation as backup in repo.
 
 Results of ResnetModel & GradCam is placed under "Assignment 4B" in ipynb file.
+=============================================================================
 
 Logs
 =====
