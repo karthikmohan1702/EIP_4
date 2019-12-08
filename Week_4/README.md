@@ -1,6 +1,6 @@
-finished online annotation
+Finished online annotation
 ===========================
-
+Crossverifed the annotation, its saved in the tool. If in case not found, have already added csv file of annotation as backup in repo.
 
 Logs
 =====
